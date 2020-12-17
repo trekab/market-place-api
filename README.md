@@ -1,24 +1,54 @@
-# README
+# Market Place API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> This is an API for a `Market Place` client that is aimed at enabling users to upload product information and make orders for products they desire to purchase. 
 
-Things you may want to cover:
+## Built With
 
-* Ruby version
+- Ruby on Rails
 
-* System dependencies
+## Documentation
+Coming soon
 
-* Configuration
 
-* Database creation
+## Getting Started
 
-* Database initialization
+To get a local copy up and running follow these simple example steps.
 
-* How to run the test suite
+To get a local copy up and running follow these simple example steps.
+- `git clone git@github.com:trekab/market-place-api.git`
 
-* Services (job queues, cache servers, search engines, etc.)
+Then you browse to the folder and exucute the following commands
+- `cd market-place-api`
+- run `bundle install`
+- run `rails db:create`
+- run `rails db:migrate`
+- run `rails s` and test out the `endpoints` from your preferred client.
 
-* Deployment instructions
+### To run tests:
+- run `rails test`
 
-* ...
+## Authors
+
+👤 **Treasure Kabareebe**
+
+- Github: [@trekab](https://github.com/trekab)
+- Twitter: [@TKabareebe](https://twitter.com/TKabareebe)
+- Linkedin: [Treasure Kabareebe](https://www.linkedin.com/in/treasure-kabareebe/)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- [Microverse](https://www.microverse.org/)
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
