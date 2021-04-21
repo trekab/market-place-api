@@ -53,3 +53,5 @@ gem "kaminari", "~> 1.2"
 gem "bullet", "~> 6.1", :group => :development
 
 gem "rack-cors", "~> 1.1"
+
+gem "hirb", "~> 0.7.3"
